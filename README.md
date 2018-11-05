@@ -14,3 +14,9 @@ Check out the [blog post](https://realpython.com/blog/python/getting-started-wit
 1. Apply the migrations
 1. Install Redis (if necessary)
 1. Run the server
+
+
+## Some links
+1. https://codeguida.com/post/744
+1. https://channels.readthedocs.io/en/latest/
+1. https://learn.javascript.ru/let-const
